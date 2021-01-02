@@ -1,0 +1,195 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Rotaract Club NITK Chapter
+email: rotonitk@gmail.com
+description: Official website for the Rotaract Club NITK Chapter.
+
+
+# Team names, titles and social links
+people:
+- name: Rtr.Joel Chacko 
+  pic: 1.png
+  position: Director Club services
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Vineetha Sunny  
+  pic: 2.png
+  position: President
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Annlin Chacko 
+  pic: 3.png
+  position: Secretary
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Sharon Tony
+  pic: 4.png
+  position: Joint Convenor
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Derek Joel
+  pic: 5.png
+  position: Vice President
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Sathwik Kanneganti
+  pic: 6.png
+  position: Joint Secretary
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Tejas Chenoth
+  pic: 7.png
+  position: Sergeant at Arms
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Anamika Karthy
+  pic: 8.jpg
+  position: Director Vocational Services
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Chaitra Satheesh
+  pic: 9.png
+  position: Director Community Services
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Ananthu M Nair
+  pic: 10.png
+  position: Chairman Public Relations
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Sudarshan Sundar
+  pic: 11.png
+  position: Chairman Alumni 
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Nihal Haneef
+  pic: 12.png
+  position: Chairman Technical
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Gayatri Sajeev
+  pic: 13.png
+  position: Director International Affairs
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Vineetha Wilson
+  pic: 14.png
+  position: Chairwoman Cultural 
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Liz George
+  pic: 15.png
+  position: Treasurer
+  social:
+    - title: google-plus
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/RotaractClubNITK/
+  - title: instagram
+    url: https://www.instagram.com/rotaract_nitk/
+  - title: youtube
+    url: https://www.youtube.com/channel/UChDkd089CGeiYpAySOdcE0A
+  - title: linkedin
+    url: https://www.linkedin.com/company/rotaract-club-nitk-chapter/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: NITK Surathkal
+  - line: P.O Srinivasnagar, Karnataka, India 575025
+
+# Build settings
+markdown: kramdown
+permalink: pretty
